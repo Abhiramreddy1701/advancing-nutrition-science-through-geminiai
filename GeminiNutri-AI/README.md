@@ -5,6 +5,7 @@ This is a Streamlit web application for the Gemini Health App, which utilizes th
 
 
 ## Usage
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/hardikjp7/GeminiNutri-AI.git
