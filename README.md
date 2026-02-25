@@ -12,6 +12,7 @@ This is a Streamlit web application for the Gemini Health App, which utilizes th
    cd GeminiNutri-AI
    ```
 
+
 2. Install the required packages:
    ```bash
    pip install -r requirements.txt
